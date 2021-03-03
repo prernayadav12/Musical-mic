@@ -1,7 +1,3 @@
-# Mic android app #
-
-Music Contest Android App of admereselvyn
-
 # Getting Started #
 These instructions will get you a copy of the project up and be running on your local machine for development and testing purposes.
 
@@ -10,7 +6,7 @@ Android Studio, with a recent version of the Android SDK.
 
 ### Setting up the project locally and Contributing. ###
 1. Download and install Git.
-2. Fork the project
+2. Fork the TempleApp project
 3. Clone your fork of the project locally. At the command line:
 $ git clone https://github.com/admereselvyn/Android.git
 4. Once the project is built successfully, run the project.
